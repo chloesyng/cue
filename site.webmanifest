@@ -1,0 +1,9 @@
+{
+  "name": "cue",
+  "short_name": "cue",
+  "description": "an interactive group dating experience where private choices, changing pairings and real-world missions shape the night.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#b9c9d3",
+  "theme_color": "#061827"
+}

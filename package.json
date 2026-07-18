@@ -1,0 +1,9 @@
+{
+  "name": "cue",
+  "description": "an interactive group dating experience where private choices, changing pairings and real-world missions shape the night.",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  }
+}
